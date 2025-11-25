@@ -56,3 +56,4 @@ python src/measure_latency.py \
 ```
 
 Your task in the assignment is to modify the model and training code to improve entity and PII detection quality while keeping **p95 latency below ~20 ms** per utterance (batch size 1, on a reasonably modern CPU).
+# pii-ner-stt
